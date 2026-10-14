@@ -1,0 +1,11 @@
+node_modules/
+client/node_modules/
+backend/.env
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+backend/campus_commute.db
+dist/
+client/dist/
